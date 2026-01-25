@@ -19,6 +19,8 @@ Passionate about bridging design and technology to create functional and meaning
 
 ## Lets Connect 📫
 
+I love collaborating on projects and always enjoy connecting with others — feel free to reach out!
+
 <p align="start">
   <a href="mailto:majd.mkawa@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
