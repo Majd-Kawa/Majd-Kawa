@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Majd Kawa!
 
-### About Me ✨
+## About Me ✨
 Junior Full Stack Developer with a strong foundation in HTML, CSS, and JavaScript, and a background in architecture. Skilled in building responsive, accessible, and interactive web pages.
 
 Passionate about bridging design and technology to create functional and meaningful user experiences. Highly motivated to learn, grow, and contribute effectively in collaborative development environments using modern frameworks. Detail-oriented and eager to expand technical skills.
