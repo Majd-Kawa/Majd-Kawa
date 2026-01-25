@@ -21,6 +21,14 @@ Passionate about bridging design and technology to create functional and meaning
 - AXSOS Academy GmbH - Full Stack Development (Nov.2025 - )
 - AN Najah National University - BSc in Architectural Engineering (Aug.2014 - May.2019)
 
+## Hobbies 🎯
+🎨 Painting and architectural sketching. 
+📷 Passion for photography.
+💻 Learning new Technologies.
+🌍 Traveling and discovering new places.
+🌱 Passionate about volunteering and community involvement.
+
+
 ## Lets Connect 📫
 
 I love collaborating on projects and always enjoy connecting with others — feel free to reach out!
@@ -34,35 +42,4 @@ I love collaborating on projects and always enjoy connecting with others — fee
   https://github.com/Majd-Kawa</li>
 </ul>
 
-
- 
-
-
-
-<p align="start">
-  <a href="mailto:majd.mkawa@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; 
-
-
-  <a href="www.linkedin.com/in/majd-kawa" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/Majd-Kawa" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub"/>
-  </a>
-</p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
