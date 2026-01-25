@@ -33,6 +33,14 @@ I love collaborating on projects and always enjoy connecting with others — fee
 </ul>
 
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>  
+  [LinkedIn](https://www.linkedin.com/in/majd-kawa)
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
+  [GitHub](https://github.com/Majd-Kawa)
+
+
+
 <p align="start">
   <a href="mailto:majd.mkawa@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
