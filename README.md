@@ -18,7 +18,7 @@ Passionate about bridging design and technology to create functional and meaning
 </p>
 
 ## Education 📚
--AXSOS Academy GmbH - Full Stack Development (Nov.2025 - )
+- AXSOS Academy GmbH - Full Stack Development (Nov.2025 - )
 - AN Najah National University - BSc in Architectural Engineering (Aug.2014 - May.2019)
 
 ## Lets Connect 📫
