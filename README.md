@@ -17,6 +17,7 @@ Passionate about bridging design and technology to create functional and meaning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
+- - -
 
 
 **Majd-Kawa/Majd-Kawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
