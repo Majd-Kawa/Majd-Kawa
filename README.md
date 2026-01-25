@@ -5,7 +5,7 @@ Junior Full Stack Developer with a strong foundation in HTML, CSS, and JavaScrip
 
 Passionate about bridging design and technology to create functional and meaningful user experiences. Highly motivated to learn, grow, and contribute effectively in collaborative development environments using modern frameworks. Detail-oriented and eager to expand technical skills.
 
-<div style="height:1px;background-color:#d0d7de;opacity:0.6;margin:20px 0;"></div>
+<div style="height:1px;background-color:#d0d7de;opacity:0.8;margin:20px 0;"></div>
 
 ### Technical Skills 🔭
 <p align="start">
