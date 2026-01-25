@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Majd Kawa!
+Junior Full Stack Developer | HTML, CSS, JavaScript, Bootstrap, Python | Architect
 
 ## About Me ✨
 Junior Full Stack Developer with a strong foundation in HTML, CSS, and JavaScript, and a background in architecture. Skilled in building responsive, accessible, and interactive web pages.
