@@ -17,7 +17,20 @@ Passionate about bridging design and technology to create functional and meaning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
-- - -
+## Lets Connect 📫
+<p align="start">
+  <a href="mailto:majd.mkawa@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp; 
+
+  <a href="www.linkedin.com/in/majd-kawa" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 
 
 **Majd-Kawa/Majd-Kawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
