@@ -28,16 +28,14 @@ I love collaborating on projects and always enjoy connecting with others — fee
 
 <ul>
   <li>📧 <a href="mailto:majd.mkawa@gmail.com">majd.mkawa@gmail.com</a></li>
-  <li>🧪 <a href="www.linkedin.com/in/majd-kawa">LinkedIn</a></li>
-  <li>💼 <a href="https://github.com/Majd-Kawa">Github</a></li>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>  
+  https://www.linkedin.com/in/majd-kawa
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
+  https://github.com/Majd-Kawa
 </ul>
 
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>  
-  [LinkedIn](https://www.linkedin.com/in/majd-kawa)
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>  
-  [GitHub](https://github.com/Majd-Kawa)
+ 
 
 
 
