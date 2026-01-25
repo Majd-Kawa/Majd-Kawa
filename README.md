@@ -17,6 +17,10 @@ Passionate about bridging design and technology to create functional and meaning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
+## Education 📚
+-AXSOS Academy GmbH - Full Stack Development (Nov.2025 - )
+- AN Najah National University - BSc in Architectural Engineering (Aug.2014 - May.2019)
+
 ## Lets Connect 📫
 
 I love collaborating on projects and always enjoy connecting with others — feel free to reach out!
@@ -38,7 +42,7 @@ I love collaborating on projects and always enjoy connecting with others — fee
   </a>
 </p>
 
-## Education 📚
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
