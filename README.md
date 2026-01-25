@@ -18,33 +18,20 @@ Passionate about bridging design and technology to create functional and meaning
 </p>
 
 ## Lets Connect 📫
+
 <p align="start">
   <a href="mailto:majd.mkawa@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
   </a>
-  
   &nbsp;&nbsp;&nbsp; 
+
 
   <a href="www.linkedin.com/in/majd-kawa" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:yourname@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- space between icons -->
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- space between icons -->
-
-  <!-- GitHub (optional) -->
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Majd-Kawa" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
