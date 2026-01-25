@@ -38,15 +38,7 @@ I love collaborating on projects and always enjoy connecting with others — fee
   </a>
 </p>
 
-
-
-
-**Majd-Kawa/Majd-Kawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div style="border-top:1px solid #6e7681; opacity:0.4; margin:24px 0;"></div>
-
-
-Here are some ideas to get you started:
-
+## Education 📚
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
