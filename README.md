@@ -19,6 +19,8 @@ Passionate about bridging design and technology to create functional and meaning
 ---
 
 **Majd-Kawa/Majd-Kawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="border-top:1px solid #6e7681; opacity:0.4; margin:24px 0;"></div>
+
 
 Here are some ideas to get you started:
 
