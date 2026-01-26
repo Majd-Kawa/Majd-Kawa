@@ -22,12 +22,13 @@ Passionate about bridging design and technology to create functional and meaning
 - AN Najah National University - BSc in Architectural Engineering (Aug.2014 - May.2019)
 
 ## Hobbies 🎯
-🎨 Painting and architectural sketching. 
-📷 Passion for photography.
-💻 Learning new Technologies.
-🌍 Traveling and discovering new places.
-🌱 Passionate about volunteering and community involvement.
-
+<ul>
+<li>🎨 Painting and architectural sketching.</li>
+<li>📷 Passion for photography.</li>
+<li>💻 Learning new Technologies.</li>
+<li>🌍 Traveling and discovering new places.</li>
+<li>🌱 Passionate about volunteering and community involvement.</li>
+</ul>
 
 ## Lets Connect 📫
 
