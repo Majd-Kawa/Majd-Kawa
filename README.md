@@ -3,9 +3,8 @@ Junior Full Stack Developer | HTML, CSS, JavaScript, Bootstrap, Python | Archite
 
 
 ## About Me ✨
-Junior Full Stack Developer with a strong foundation in HTML, CSS, and JavaScript, and a background in architecture. Skilled in building responsive, accessible, and interactive web pages.
-
-Passionate about bridging design and technology to create functional and meaningful user experiences. Highly motivated to learn, grow, and contribute effectively in collaborative development environments using modern frameworks. Detail-oriented and eager to expand technical skills.
+Junior Full Stack Developer with practical experience in building dynamic web applications using HTML, CSS, JavaScript, Python, and Django Framework. Skilled in developing responsive user interfaces and integrating backend systems with MySQL databases. Strong foundation in software development principles and  problem-solving.
+Detail-oriented and eager to contribute to development teams, continuously learn modern technologies, and deliver scalable, efficient, and maintainable solutions.
 
 
 ## Technical Skills 🔭
@@ -15,6 +14,8 @@ Passionate about bridging design and technology to create functional and meaning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
 </p>
 
 ## Education 📚
