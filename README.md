@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Majd Kawa!
-Junior Full Stack Developer | HTML, CSS, JavaScript, Bootstrap, Python | Architect
+Junior Full Stack Developer | HTML, CSS, JavaScript, Bootstrap, Python, Django | Architect
 
 
 ## About Me ✨
@@ -18,7 +18,7 @@ Detail-oriented and eager to contribute to development teams, continuously learn
 </p>
 
 ## Education 📚
-- AXSOS Academy GmbH - Full Stack Development (Nov.2025 - )
+- AXSOS Academy GmbH - Full Stack Development (Nov.2025 - April.2026 )
 - AN Najah National University - BSc in Architectural Engineering (Aug.2014 - May.2019)
 
 ## Hobbies 🎯
