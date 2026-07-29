@@ -3,7 +3,7 @@ Junior Full Stack Developer | HTML, CSS, JavaScript, Bootstrap, Python, Django |
 
 
 ## About Me ✨
-Junior Full Stack Developer with practical experience in building dynamic web applications using HTML, CSS, JavaScript, Python, and Django Framework. Skilled in developing responsive user interfaces and integrating backend systems with MySQL databases. Strong foundation in software development principles and  problem-solving.
+Junior Full Stack Developer with practical experience in building dynamic web applications using HTML, CSS, JavaScript, Python, Flask and Django Framework. Skilled in developing responsive user interfaces and integrating backend systems with MySQL databases. Strong foundation in software development principles and  problem-solving.
 Detail-oriented and eager to contribute to development teams, continuously learn modern technologies, and deliver scalable, efficient, and maintainable solutions.
 
 
@@ -23,11 +23,11 @@ Detail-oriented and eager to contribute to development teams, continuously learn
 
 ## Hobbies 🎯
 <ul>
+<li>🌱 Passionate about volunteering and community involvement.</li>
 <li>🎨 Painting and architectural sketching.</li>
 <li>📷 Passion for photography.</li>
 <li>💻 Learning new Technologies.</li>
 <li>🌍 Traveling and discovering new places.</li>
-<li>🌱 Passionate about volunteering and community involvement.</li>
 </ul>
 
 ## Lets Connect 📫
